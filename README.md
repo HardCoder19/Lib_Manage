@@ -327,6 +327,6 @@ DEFENCE for colourflipcount
 
 According to the logic of my code I have flipped the color wherever the flip takes place.
 
-**CLASS DIAGRAM ON THE NEXT PAGE**
+**CLASS DIAGRAM**
 ![image](https://github.com/HardCoder19/Lib_Manage/assets/57640822/c47c4365-1d84-4561-909e-148ad7fbc9d6)
 
